@@ -1,5 +1,8 @@
 # How to run dashboard-with-network:
 <br></br>
+## This walkthrough assumes basic:
+  <ul>Command-line efficiency </ul>
+  <ul>Python skills</ul>
 Cloning the repository is fairly straightforward. To be fair, so are the other available methods. Inside the repo select the green 'Code' button as shown below. Copy the link in the drop down menu. 
 <br></br>
 <img src="clone_the_repo.png" alt="Example Image">

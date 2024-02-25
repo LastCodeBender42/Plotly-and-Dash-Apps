@@ -1,5 +1,6 @@
 # How to run dashboard-with-network:
 <br></br>
+<img src="network.png" alt="Example Image"><br></br>
 ## This walkthrough assumes basic:
   <ul>Command-line efficiency </ul>
   <ul>Python skills</ul>

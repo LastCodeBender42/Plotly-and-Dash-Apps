@@ -5,4 +5,4 @@ Cloning the repository is fairly straightforward. To be fair, so are the other a
 <br></br>
 <img src="clone_the_repo.png" alt="Example Image">
 <br></br>
-Next, open a terminal on your Desktop and type `git clone git@github.com:LastCodeBender42/PlotlyDashApps.git` like so
+Next, open a terminal on your Desktop and type `git clone git@github.com:LastCodeBender42/PlotlyDashApps.git` like so. This will automatically create a folder on your will the entire set of files 

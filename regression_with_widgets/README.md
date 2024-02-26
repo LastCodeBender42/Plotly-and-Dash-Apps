@@ -1,6 +1,6 @@
 # How to run dashboard-with-network:
 <br></br>
-<img src="./data/pairwise-regression.png" alt="Example Image"><br></br>
+<img src="./data/regression.png" alt="Example Image"><br></br>
 <br></br>
 ## This walkthrough assumes basic:
   <ul>Command-line efficiency </ul>

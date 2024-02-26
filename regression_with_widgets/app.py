@@ -18,7 +18,7 @@ class CentralityAnalysis:
         
     def generate_graph(self):
         # Read data and create graph
-        df = pd.read_csv('1YOK.cif_ringEdges', sep='\t')
+        df = pd.read_csv('./data/1YOK.cif_ringEdges', sep='\t')
         subset_df = df.loc[(df['NodeId1'].str.contains('A:')) & (df['NodeId2'].str.contains('A:'))]
         self.G = nx.from_pandas_edgelist(subset_df, 'NodeId1', 'NodeId2', create_using=nx.Graph())
         

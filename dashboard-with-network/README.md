@@ -16,9 +16,8 @@ git clone git@github.com:LastCodeBender42/PlotlyDashApps.git
 ```
 
 . This will automatically create a PlotlyDashApps folder on your Desktop. This is a clone of the repository on GitHub. As a precaution to protect the system-wide Python dependencies of the user it is recommended that a Python virtual environment be installed to effectively isolate the project.
-<br></br>
+
 ## Installing the Python Virtual Environment (venv) and Dependencies:
-<br></br>
 Navigate to the dashboard-with-network directory. And run the the command 
 
 ```python
@@ -43,10 +42,9 @@ Once all Python dependencies are installed, the Dash app can be deployed with
 ```python
 python app.py  
 ```
-The local port where the app is deployed is found in the terminal stdout. 
+The local port where the app is deployed is found in the terminal stdout. It can be copied and pasted into the browser and the app will display as shown above!
 
-<br></br>
 <img src="dashport.png" alt="Example Image"><br></br>
 <br></br>
 
-It can be copied and pasted into the browser and the app will display as shown above!
+

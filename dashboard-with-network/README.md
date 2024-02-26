@@ -10,7 +10,6 @@ Cloning the repository is fairly straightforward. Navigate to the PlotlyDashApps
 <br></br>
 Next, open a terminal on your Desktop and type the command 
 ```
-
 git clone git@github.com:LastCodeBender42/PlotlyDashApps.git
 ```
 This will automatically create a PlotlyDashApps folder on your Desktop. This is a clone of the repository on GitHub. As a precaution to protect the system-wide Python dependencies of the user it is recommended that a Python virtual environment be installed to effectively isolate the project.

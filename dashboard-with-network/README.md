@@ -7,7 +7,7 @@
   <ul>Python skills</ul>
 Cloning the repository is fairly straightforward. Navigate to the PlotlyDashApps repository, select the green 'Code' button as shown below, and copy the link in the drop down menu. 
 <br></br>
-<img src="clone_the_repo.png" alt="Example Image">
+<img src="./data/clone_the_repo.png" alt="Example Image">
 <br></br>
 Next, open a terminal on your Desktop and type the command 
 
@@ -44,7 +44,7 @@ python app.py
 ```
 The local port where the app is deployed is found in the terminal stdout. It can be copied and pasted into the browser and the app will display as shown above!
 
-<img src="dashport.png" alt="Example Image"><br></br>
+<img src="./data/dashport.png" alt="Example Image"><br></br>
 <br></br>
 
 

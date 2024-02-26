@@ -9,7 +9,7 @@ app = dash.Dash(__name__, external_stylesheets=external_stylesheets)
 
 def plotly_line_graph():
     # Read CSV file into Pandas DataFrame
-    data = pd.read_csv('importFileTest.csv')  # Replace with your CSV file path
+    data = pd.read_csv('./data/importFileTest.csv')  # Replace with your CSV file path
 
     # Create a Plotly figure with an interactive line graph
     fig = go.Figure()
@@ -21,7 +21,7 @@ def plotly_line_graph():
 
 def plotly_freq_hist():
     # Read CSV file into Pandas DataFrame
-    data = pd.read_csv('importFileTest.csv')
+    data = pd.read_csv('./data/importFileTest.csv')
 
     # Create a Plotly figure with an interactive histogram
     fig = go.Figure()
@@ -32,7 +32,7 @@ def plotly_freq_hist():
 
 
 def plotly_network():
-    edge_list_file = "1yok.txt"  # Replace with your file path
+    edge_list_file = "./data/1yok.txt"  # Replace with your file path
 
     # Read edge list file and process data
     edges = []

@@ -46,7 +46,7 @@ python app.py
 The local port where the app is deployed is found in the terminal stdout. 
 
 <br></br>
-<img src="dashboard.png" alt="Example Image"><br></br>
+<img src="dashport.png" alt="Example Image"><br></br>
 <br></br>
 
 It can be copied and pasted into the browser and the app will display as shown above!

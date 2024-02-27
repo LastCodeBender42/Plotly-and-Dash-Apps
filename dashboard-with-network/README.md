@@ -17,16 +17,11 @@ git clone git@github.com:LastCodeBender42/PlotlyDashApps.git
 
 . This will automatically create a PlotlyDashApps folder on your Desktop. This is a clone of the repository on GitHub. As a precaution to protect the system-wide Python dependencies of the user it is recommended that a Python virtual environment be installed to effectively isolate the project.
 
-## Installing the Python Virtual Environment (venv) and Dependencies:
-Navigate to the dashboard-with-network directory. And run the the command 
+## The Python Virtual Environment (venv) and Dependencies:
+To make this demonstration simpler to execute, a Python virtual environment is already installed and ready to go. So, navigate to the dashboard-with-network directory. And run the the command 
 
 ```python
-python3 -m venv myenv
-```
-Feel free to change the environment name to something more intuitive. Next, we start the environemnt by executing 
-
-```python
-source myenv/bin/activate
+source newenv/bin/activate
 ```
 
 Now that the isolated Python environment is activated we can begin installing dependencies. In this case, all the necessary dependencies can be retrieved using the requirements.txt file and that is executed using 

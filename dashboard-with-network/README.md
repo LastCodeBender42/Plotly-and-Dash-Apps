@@ -15,7 +15,7 @@ Next, open a terminal on your Desktop and type the command
 git clone git@github.com:LastCodeBender42/PlotlyDashApps.git
 ```
 
-. This will automatically create a PlotlyDashApps folder on your Desktop. This is a clone of the repository on GitHub. As a precaution to protect the system-wide Python dependencies of the user it is recommended that a Python virtual environment be installed to effectively isolate the project.
+This will automatically create a PlotlyDashApps folder on your Desktop. This is a clone of the repository on GitHub. As a precaution to protect the system-wide Python dependencies of the user it is recommended that a Python virtual environment be installed to effectively isolate the project.
 
 ## The Python Virtual Environment (venv) and Dependencies:
 To make this demonstration simpler to execute, a Python virtual environment is already installed and ready to go. So, navigate to the dashboard-with-network directory. And run the the command 

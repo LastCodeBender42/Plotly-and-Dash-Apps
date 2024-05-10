@@ -1,4 +1,4 @@
-Python==3.10.14
+python==3.10.14
 pandas==2.1.4
 numpy==1.25.2
 networkx==3.1
